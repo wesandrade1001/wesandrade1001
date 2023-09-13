@@ -1,5 +1,5 @@
-- 👋 Olá, sou professor Wesley Andrade
-- 👀 Sou Professor de tecnologia.
+- 👋 Olá, sou Wesley Andrade
+- 👀 Sou Professor de tecnologia na escola B.J
   
 
 <!---
